@@ -1,2 +1,2 @@
 # Sandbox
-This repository contains various little programs with fun purpose.
+This repository contains various little programs with testing purpose.
